@@ -1,4 +1,5 @@
-
+About BreakFree
+BreakFree is a minimalist, intuitive habit builder app designed to help you break bad routines and build positive, lasting habits. Track your daily streaks, visualize your progress, and take control of your daily routines to unlock a better version of yourself—one day at a time.
 
 # Run and deploy your app
 
